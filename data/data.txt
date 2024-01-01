@@ -1,0 +1,365 @@
+sun 1/1: 10:55am 
+mon 1/2: 12:03pm 1:50pm
+tues 1/3: 
+weds 1/4: 9:37am 10:05am
+thurs 1/5: 2:31am
+fri 1/6: 9:30am 11:00am
+sat 1/7: 12:44pm 
+sun 1/8: 11:50am
+mon 1/9: 10:25am
+tues 1/10: 11:10am 11:37am 7:30pm
+weds 1/11: 11:47am
+thurs 1/12: 12:30am 11:41am 8:00pm
+fri 1/13: 1:22am 12:39pm 1:56pm
+sat 1/14: 11:17am 11:07pm
+sun 1/15: 12:42pm 3:54pm
+mon 1/16: 12:46am 11:24am 1:07pm
+tues 1/17: 11:42am 4:22pm 8:45pm
+weds 1/18: 11:24am 12:01pm 7:49pm
+thurs 1/18: 9:03am 11:28am
+fri 1/19: 12:45pm
+sat 1/20: 12:11pm 8:13pm
+sun 1/21: 7:55am 12:58pm
+mon 1/22: 
+tues 1/23: 9:08am 12:14pm
+weds 1/24: 10:17am
+thurs 1/25: 8:42am 8:07pm
+fri 1/26: 7:58am
+sat 1/27: 9:08am 1:49pm
+sun 1/28: 11:04am 1:32pm 7:48pm
+mon 1/29: 8:25am 10:12am 9:45pm
+tues 1/30: 8:31am 7:07pm
+weds 2/1: 8:23am 9:50pm 11:19pm
+thurs 2/2: 8:45am 11:05am
+fri 2/3: 8:21am 10:00am
+sat 2/4: 8:03pm
+sun 2/5: 11:43am 1:24pm
+mon 2/6: 8:20am 1:46pm 8:39pm
+tues 2/7: 9:17am 10:36am 2:22pm
+weds 2/8: 10:00am 12:22pm 1:54pm 7:53pm
+thurs 2/9: 8:49am 1:16pm 11:39pm
+fri 2/10: 8:38am 1:21pm
+sat 2/11: 11:29am 12:24pm 4:04pm 8:46pm
+sun 2/12: 10:53am 1:16pm
+mon 2/13: 8:22am 10:31am 2:30pm
+tues 2/14: 9:00am 11:23am 9:05pm
+weds 2/15: 9:51am 1:58pm
+thurs 2/16: 8:51am 12:43pm 9:03pm
+fri 2/17: 8:25am 3:22pm
+sat 2/18: 10:25am 12:46pm
+sun 2/19: 11:20am 2:09pm
+mon 2/20: 8:24am
+tues 2/21: 8:31am 11:33am 7:20pm
+weds: 2/22: 9:43am
+thurs 2/23: 8:40am 9:15pm
+fri 2/24: 8:25am 10:00am
+sat 2/25: 11:04am 
+sun 2/26: 1:49am 12:04pm
+mon 2/27: 1:37pm 8:33pm
+tues 2/28: 11:58am 9:51pm
+weds 3/1: 8:41am 11:46am
+thurs 3/2: 10:22am 12:19am
+fri 3/3: 8:19am 2:47pm
+sat 3/4: 11:48am 4:23pm 9:07pm 
+sun 3/5: 12:02pm
+mon 3/6: 8:30am 9:56am 9:07pm
+tues 3/7: 8:35am 11:00am 1:22pm 6:40pm
+weds 3/8: 11:17am 3:06pm 9:05pm
+thurs 3/9: 1:15pm
+fri 3/10: 8:47am 2:49pm
+sat 3/11: 12:30pm
+sat 3/12: 10:37am 
+mon 3/13: 10:14am 10:03pm
+tues 3/14: 12:29pm 1:45pm 2:31pm
+weds: 3/15: 4:02pm
+thurs 3/16: 1:00pm 7:08pm
+fri 3/17: 12:57am 10:02am
+sat 3/18: 4:59pm 8:48pm
+sun 3/19: 12:05pm
+mon 3/20: 11:10pm
+tues 3/21: 10:59am 1:48pm 8:59pm
+weds 3/22: 11:18am 2:08pm 5:40pm
+thurs 3/23: 8:57am 9:06pm
+fri 3/24: 8:18am 9:29am 9:06pm
+sat 3/25: 4:36pm
+sun 3/26: 12:13am 11:27am
+mon 3/27: 10:04am 9:02pm
+tues 3/28: 9:03am 8:43pm
+weds 3/29: 1:45pm 8:45pm
+thurs 3/30: 11:10am 1:34pm 7:17pm
+fri 3/31: 7:32am 9:07am
+sat 4/1: 3:15pm
+sun 4/2: 11:33am 7:01pm
+mon 4/3: 12:13am 10:04am 9:26pm
+tues 4/4: 11:00am 
+weds 4/5: 9:50am 11:22am
+thurs 4/6: 12:24am 10:10am 2:01pm
+fri 4/7: 12:01pm 1:46pm
+sat 4/8: 12:07pm 1:02pm
+sun 4/9: 9:30am 11:09am 2:36pm
+mon 4/10: 1:20pm
+tues 4/11: 4:56pm 8:37pm 9:29pm
+weds 4/12: 1:50pm
+thurs 4/13: 10:37am 1:10pm
+fri 4/14: 9:58am 2:40pm
+sat 4/15: 12:09pm 7:19pm
+sun 4/16: 12:38pm 3:59pm 9:22pm
+mon 4/17: 10:14am 1:15pm 9:41pm
+tues 4/18: 10:25am 11:40am 12:29pm
+weds 4/19: 2:29pm
+thurs 4/20: 10:22am 12:49pm
+fri 4/21: 8:44am 9:42am
+sat 4/22: 12:25pm 2:22pm
+sun 4/23: 12:16pm
+mon 4/24: 10:09am 10:55am
+tues 4/25: 11:20am
+weds 4/26: 1:54am 9:28am 12:24pm
+thurs 4/27: 11:16am
+fri 4/28: 8:49am 9:28am 1:25pm
+sat 4/29: 10:15am 9:38pm
+sun 4/30: 12:34pm
+mon 5/1: 12:48am 10:04am
+tues 5/2: 7:28am 12:58pm
+weds 5/3: 10:52am 1:01pm
+thurs 5/4: 2:03pm 4:05pm
+fri 5/5: 9:37am 12:55pm
+sat 5/6: 12:37pm 11:58pm
+sun 5/7: 1:18am 11:18am 9:24am
+mon 5/8: 10:25am
+tues 5/9: 9:12am 11:05am
+weds 5/10: 10:44am
+thurs 5/11: 11:57am 12:25pm
+fri 5/12: 12:54pm 1:58pm
+sat 5/13: 12:41pm 1:51pm
+sun 5/14: 1:24pm
+mon 5/15: 12:07pm 2:08pm
+tues 5/16: 1:28pm 3:13pm
+weds 5/17: 8:12am 11:59am
+thurs 5/18: 12:39pm
+fri 5/19: 12:57am 9:25am 12:54pm
+sat 5/20: 7:05am 10:44am 11:57am 9:12pm
+sun 5/21: 11:57am
+mon 5/22: 11:43am 8:10pm
+tues 5/23: 10:06am 10:59am
+weds 5/24: 11:13am 1:40pm
+thurs 5/25: 10:46am 12:48pm
+fri 5/26: 2:28pm
+sat 5/27: 12:08pm
+sun 5/28: 11:17am 1:06pm 7:56pm
+mon 5/29: 10:59am 12:13pm
+tues 5/30: 7:25am 9:06pm
+weds 5/31: 7:06am 
+thurs 6/1: 7:07am 8:05am
+fri 6/2: 8:22am 1:24pm 5:02pm
+sat 6/3: 9:48am 10:54am
+sun 6/4: 10:11am 3:36pm
+mon 6/5: 8:40pm 10:02am 5:16pm
+tues 6/6: 8:53am 2:56pm
+weds 6/7: 9:17am
+thurs 6/8: 9:02am 10:00am
+fri 6/9: 9:05am
+sat 6/10: 11:19am
+sun 6/11: 11:58am
+mon 6/12: 12:40am 10:51am
+tues 6/13: 9:52am 11:46am
+weds 6/14: 9:12am 11:38am
+thurs 6/15: 9:16am 10:13am 10:39am
+fri 6/16: 9:47am 9:18pm
+sat 6/17: 10:48am 2:44pm 3:13pm
+sun 6/18: 12:03pm
+mon 6/19: 9:48am 7:06pm
+tues 6/20: 9:58am 3:40pm
+weds 6/21: 9:06am 10:37am 1:47pm
+thurs 6/22: 9:59am
+fri 6/23: 9:28am
+sat 6/24: 11:03am 1:02pm
+sun 6/25: 11:55am
+mon 6/26: 9:05am
+tues 6/27: 9:46am 10:45am
+weds 6/28: 
+thurs 6/29: 9:36am 2:03pm
+fri 6/30: 9:21am 11:59am 2:25pm
+sat 7/1: 12:04pm 12:39pm 3:57pm
+sun 7/2: 1:15pm
+mon 7/3: 3:37pm 5:09pm
+tues 7/4: 12:22am 11:31am 3:19pm
+weds 7/5: 10:07am
+thurs 7/6: 9:20am 10:59am 6:14pm
+fri 7/7: 10:27am 1:59pm
+sat 7/8: 12:31pm 1:06pm 10:56pm
+sun 7/9: 11:00am
+mon 7/10: 9:12am 10:11am 10:50pm
+tues 7/11: 10:07am
+weds 7/12:  10:08am 10:55am 8:17pm
+thurs 7/13: 9:34am 10:34am
+fri 7/14: 10:30am 2:14pm
+sat 7/15: 1:42am 12:34pm 4:13pm
+sun 7/16: 3:32pm
+mon 7/17: 9:20am 11:22am 8:58pm
+tues 7/18: 12:09pm
+weds 7/19: 10:26am 12:18pm 5:33pm 8:25pm
+thurs 7/20: 1:04pm 10:42pm
+fri 7/21: 9:22am 2:12pm
+sat 7/22: 11:37am
+sun 7/23: 11:28am
+mon 7/24: 10:31am 4:39pm 8:37pm
+tues 7/25: 10:17am 7:59pm
+weds 7/26: 10:15am
+thurs 7/27: 9:09am 3:22pm 8:47pm
+fri 7/28: 9:22am 10:08am 4:30pm
+sat 7/29: 11:50am 12:28pm
+sun 7/30: 12:28pm 2:21pm
+mon 7/31: 9:18am 3:40pm 11:25pm
+tues 8/1: 9:19am 1:23pm 4:33pm
+weds 8/2: 10:28am 2:10pm
+thurs 8/3: 9:39am
+fri 8/4: 9:02am 11:20am
+sat 8/5: 12:16pm
+sun 8/6: 1:26am 11:33am 12:44pm
+mon 8/7: 8:56am 10:23am
+tues 8/8: 9:22am 10:17am
+weds 8/9: 9:19am
+thurs 8/10: 9:29am
+fri 8/11: 9:22am 2:10pm 3:12pm
+sat 8/12: 11:59pm
+sun 8/13: 12:06pm 
+mon 8/14: 9:46am 3:56pm
+tues 8/15: 9:29am 2:57pm
+weds 8/16: 8:56am 10:58am
+thurs 8/17: 2:27pm
+fri 8/18: 9:53am 
+sat 8/19: 1:19pm 2:36pm
+sun 8/20: 11:54am 1:23pm
+mon 8/21: 10:43am
+tues 8/22: 7:56am 9:58am
+weds 8/23: 10:47am 9:47pm
+thurs 8/24: 2:57pm
+fri 8/25: 10:33am 3:42pm
+sat 8/26: 1:36pm
+sun 8/27: 11:59am 5:49pm
+mon 8/28: 8:56am 4:50pm 11:32pm
+tues 8/29: 9:57pm
+weds 8/30: 10:07am 5:04pm 
+thurs 8/31: 8:22am 1:49pm 10:02pm
+fri 9/1: 1:24pm 10:59pm
+sat 9/2: 9:51am
+sun 9/3: 11:48am 1:17pm 10:13pm
+mon 9/4: 12:18pm 10:12pm
+tues 9/5: 8:16am 11:36am 5:05pm
+weds 9/6: 10:09am
+thurs 9/7: 12:11am 10:11am 7:50pm
+fri 9/8: 12:38pm 4:21pm
+sat 9/9: 9:21am 11:22am 11:54am 7:49pm
+sun 9/10: 6:24pm 10:13pm
+mon 9/11: 10:36am
+tues 9/12: 10:02am 5:46pm 
+weds 9/13: 3:19am 1:01pm 7:53pm
+thurs 9/14: 4:58pm
+fri 9/15: 3:48pm
+sat 9/16: 12:15pm 10:29pm
+sun 9/17: 4:10pm
+mon 9/18: 10:15am 8:12pm
+tues 9/19: 11:40am
+weds 9/20: 10:31am 
+thurs 9/21: 10:01am 8:31pm
+fri 9/22: 4:23pm 
+sat 9/23: 11:04am 1:38pm
+sun 9/24: 1:06pm
+mon 9/25: 10:11pm 5:34pm
+tues 9/26: 9:53am 11:53am
+weds 9/27: 7:58am 3:05pm 8:46pm
+thurs 9/28: 9:53am
+fri 9/29: 12:13pm 12:34pm 1:06pm
+sat 9/30: 12:02pm 3:48pm
+sun 10/1: 11:01am 6:30pm
+mon 10/2: 10:23am 8:51pm
+tues 10/3: 1:08pm 8:53pm 
+weds 10/4: 12:29pm 12:55pm
+thurs 10/5: 9:11am 1:27pm
+fri 10/6: 11:14am 12:20pm
+sat 10/7: 11:46am 1:57pm 4:19pm
+sun 10/8: 12:20pm
+mon 10/9: 10:16am 12:07pm 2:57pm
+tues 10/10: 12:00pm 
+weds 10/11: 10:20am 11:30pm
+thurs 10/12: 9:37am
+fri 10/13: 11:38am
+sat 10/14: 11:28am 10:05pm
+sun 10/15: 12:06pm 11:30pm
+mon 10/16: 11:24am 11:57am
+tues 10/17: 9:55am 5:48pm
+weds 10/18: 3:01pm
+thurs 10/19: 8:47pm
+fri 10/20: 12:14pm
+sat 10/21: 11:50am 5:42pm
+sun 10/22: 
+mon 10/23: 10:53am
+tues 10/24: 11:29am 4:20pm
+weds 10/25: 2:41am 8:57pm
+thurs 10/26: 11:41am
+fri 10/27: 10:30am 1:15pm 7:24pm
+sat 10/28: 11:19am 2:25pm 9:20pm
+sun 10/29: 11:57am
+mon 10/30: 11:40am 6:10pm
+tues 10/31: 11:12am 5:52pm
+weds 11/1: 10:50am
+thurs 11/2: 8:17am
+fri 11/3: 10:38am 11:18am 8:52pm
+sat 11/4: 12:20pm 12:58pm
+sun 11/5: 11:02am
+mon 11/6: 11:21am 7:48pm
+tues 11/7: 1:07am 2:27pm 
+weds 11/8: 10:35am
+thurs 11/9: 10:27am
+fri 11/10: 11:20am 10:27pm
+sat 11/11: 12:30pm
+sun 11/12: 12:03pm 7:59pm
+mon 11/13: 9:53am 1:04pm
+tues 11/14: 3:02pm 5:00pm 7:21pm
+weds 11/15: 12:19pm
+thurs 11/16: 12:53pm 2:08pm
+fri 11/17: 10:13am 1:05pm
+sat 11/18: 11:40am 1:44pm
+sun 11/19: 11:45am 12:57pm
+mon 11/20: 10:47am 7:52pm 
+tues 11/21: 10:00am 10:47am 7:22pm
+weds 11/22: 3:39pm 
+thurs 11/23: 2:55pm 8:01pm
+fri 11/24: 12:07pm 8:59pm
+sat 11/25: 11:16pm 12:37pm
+sun 11/26: 11:04am
+mon 11/27: 9:52am 10:39am
+tues 11/28: 2:27am
+weds 11/29: 11:33am 8:56pm 
+thurs 11/30: 3:24pm
+fri 12/1: 11:45am
+sat 12/2: 10:28am
+sun 12/3: 11:49am 11:21pm
+mon 12/4: 10:19am
+tues 12/5: 12:22am
+weds 12/6: 12:54am
+thurs 12/7: 9:48am
+fri 12/8: 11:28am 12:43pm
+sat 12/9: 12:37pm 3:41pm
+sun 12/10: 10:54am
+mon 12/11: 12:43pm 3:26pm
+tues 12/12: 3:32am 12:55pm 2:12pm
+weds 12/13: 11:55am 12:18am
+thurs 12/14: 12:43pm 3:14pm
+fri 12/15: 12:32pm 1:38pm 3:17pm
+sat 12/16: 11:56am 1:10pm 8:09pm
+sun 12/17: 12:02pm
+mon 12/18: 12:09pm 1:17pm
+tues 12/19: 1:18pm 3:17pm 5:32pm 7:48pm
+weds 12/20: 11:11am 9:35pm
+thurs 12/21: 10:51am 11:38am
+fri 12/22: 1:44pm
+sat 12/23: 11:36am
+sun 12/24: 12:51pm
+mon 12/25: 1:34pm 9:26pm
+tues 12/26: 12:05pm 10:58pm
+weds 12/27: 10:32am 12:05pm
+thurs 12/28: 
+fri 12/29: 10:50am 11:19am 12:51pm
+sat 12/30: 12:50pm
+sun 12/31: 12:00pm
