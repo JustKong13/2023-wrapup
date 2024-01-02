@@ -31,5 +31,7 @@ for key in d:
             formatted_time = dt.datetime.strptime(dt_str, '%m/%d/%Y %I:%M%p')
             times.append(formatted_time)
 
+print(times)
+
 with open('./data/times.pkl', 'wb') as out_file:
     pickle.dump(times, out_file)
