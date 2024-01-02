@@ -50,7 +50,7 @@ sat 2/18: 10:25am 12:46pm
 sun 2/19: 11:20am 2:09pm
 mon 2/20: 8:24am
 tues 2/21: 8:31am 11:33am 7:20pm
-weds: 2/22: 9:43am
+weds 2/22: 9:43am
 thurs 2/23: 8:40am 9:15pm
 fri 2/24: 8:25am 10:00am
 sat 2/25: 11:04am 
@@ -71,7 +71,7 @@ sat 3/11: 12:30pm
 sat 3/12: 10:37am 
 mon 3/13: 10:14am 10:03pm
 tues 3/14: 12:29pm 1:45pm 2:31pm
-weds: 3/15: 4:02pm
+weds 3/15: 4:02pm
 thurs 3/16: 1:00pm 7:08pm
 fri 3/17: 12:57am 10:02am
 sat 3/18: 4:59pm 8:48pm
